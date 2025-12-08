@@ -2,8 +2,6 @@
 
 ### Software Engineer - AI
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Theeshs&label=Profile views&color=0e75b6&style=flat" alt="Theeshs" /> </p>
-
 - 🔭 I'm currently working on **After 7 years of backend-focused full-stack development, I’m now primarily focused on building AI-driven applications, including RAG systems and agentic applications.**
 
 - 🌱 I'm currently learning **LangChain, LangGraph and Fiber**
