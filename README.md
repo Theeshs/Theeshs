@@ -16,8 +16,9 @@
 ### 🚀 About me
 
 - 🔭 &nbsp;After **7+ years** of backend-focused full-stack development, I now build **AI-driven applications** — RAG systems and agentic apps.
-- 🌱 &nbsp;Currently going deeper on **LangChain**, **LangGraph**, and **Go Fiber**.
-- 💬 &nbsp;Ask me about **Python**, **Go**, **TypeScript / JavaScript**, and **Hack**.
+- 💪 &nbsp;**Python** is my strongest language; I build AI systems with **LangChain** & **LangGraph** over vector stores like **Pinecone**, **Qdrant**, and **pgvector**.
+- 🦀 &nbsp;Currently channeling a lot of enthusiasm into **Rust**.
+- 💬 &nbsp;Ask me about **Python**, **Hack**, **TypeScript / JavaScript**, and **Go**.
 - 🧩 &nbsp;I build **MCP servers**, developer tooling, and production APIs.
 - 📍 &nbsp;Based in **Sweden** · Tech Lead — AI @ MyTelescope AB.
 - ⚡ &nbsp;Fun fact: I love **travel photography** and **gaming**.
@@ -27,23 +28,31 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**Languages** &nbsp;<sub>(strongest → exploring)</sub>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Hack](https://img.shields.io/badge/Hack-4E5D94?style=flat-square&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 **AI / ML**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+**Vector Databases**
+
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Backend & Frameworks**
 
