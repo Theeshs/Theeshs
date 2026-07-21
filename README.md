@@ -19,7 +19,7 @@
 - 🌱 &nbsp;Currently going deeper on **LangChain**, **LangGraph**, and **Go Fiber**.
 - 💬 &nbsp;Ask me about **Python**, **Go**, **TypeScript / JavaScript**, and **Hack**.
 - 🧩 &nbsp;I build **MCP servers**, developer tooling, and production APIs.
-- 📍 &nbsp;Based in **Sweden** · Senior Application Consultant @ AVT.
+- 📍 &nbsp;Based in **Sweden** · Tech Lead — AI @ MyTelescope AB.
 - ⚡ &nbsp;Fun fact: I love **travel photography** and **gaming**.
 - 📫 &nbsp;Reach me at **theekshana.sandaru@gmail.com**
 
